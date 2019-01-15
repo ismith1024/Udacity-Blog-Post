@@ -81,7 +81,7 @@ continue into more remote AirBNB service operations.
 3. The satisfaction of AirBNB customers is inferred to be less when staying with an operator close (within approximately 5 km) to the venue.  This inference is made using NLP of review sentiment.
 
 A summary of the findings is published here:
-<#TBD>.
+https://ismith1024.github.io/2019-01-12-Boston_AirBNB/.
 
 
 
